@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @muskan3233
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m Rehmat
+- 👀 I’m interested in development and programmin
+- 🌱 I’m currently learning Java
 - 📫 How to reach me mait at muskanjee2021r@gmail.com
 
 <!---
