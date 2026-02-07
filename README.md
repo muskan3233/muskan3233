@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack Java development, Frameworks, Data Structure and Algorithm**
 
-- 📫 How to reach me **muskanjee2021r@gmail.com**
+- 📫 How to reach me **rehmat.shah1538@gmail.com**
 
 - My website: **https://rehmat-shah.me** 
 
